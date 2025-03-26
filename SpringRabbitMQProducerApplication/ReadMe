@@ -1,0 +1,9 @@
+RabbitMQ-Based Microservices Messaging System
+Project Name: Distributed Order Processing System
+
+1. Project Overview
+A decoupled, event-driven architecture using RabbitMQ to facilitate asynchronous communication between:
+
+Producer Microservice: Handles order creation and publishes messages.
+
+Consumer Microservice: Processes orders and sends notifications.
